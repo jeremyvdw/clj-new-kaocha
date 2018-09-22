@@ -4,7 +4,7 @@ A [clj template](https://github.com/seancorfield/clj-new) for [kaocha](https://g
 
 ## Usage
 
-`clj -A:new https://github.com/jeremyvdw/clj_new_kaocha project-name`
+`clj -A:new https://github.com/jeremyvdw/clj-new-kaocha@5f8fa5646cc2e156de49f5dea50664e29fb6fb72 project-name`
 
 ## License
 
